@@ -1,1 +1,2 @@
 1. git and version control
+2. Python

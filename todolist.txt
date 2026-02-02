@@ -1,0 +1,7 @@
+1. git and version control,
+2. python programming fundamentals, 
+3. agile/project workflows, 
+4. testing concepts, 
+5. cloud and azure fundamentals, 
+6. cyber security essentials 
+7. working with stakeholders.

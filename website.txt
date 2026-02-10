@@ -1,3 +1,8 @@
 Welcome to Our Website!
 -----------------------
-Home | About Us | Services
+Home | About Us | Services | Contact Us
+
+
+Contact Us:
+Email: contact@example.com
+Phone: 123-456-7890
